@@ -1,6 +1,6 @@
 # Fake News Detection
 
-🔗 **Live demo:** https://fake-news-detection-ilvo3jbhhzabwyyxyw8ufnv.streamlit.app
+🔗 **Live demo:** https://fake-news-detection-ilvo3jbhhzabwyxyw8ufnv.streamlit.app/
 
 A machine learning project for classifying news articles as **Fake** or **Real** using Natural Language Processing (NLP).
 
